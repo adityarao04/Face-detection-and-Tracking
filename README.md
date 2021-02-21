@@ -6,10 +6,7 @@ If you are using any other external webCam, in main.py on line 5: cam = cv2.Vide
 
 The alogrithm used is Haarcascade Frontal Face Algorithm
 
-->It is based on the Haar Wavelet technique to analyze pixels in the image into squares by function. 
-->This uses machine learning techniques to get a high degree of accuracy from what is called “training data”. 
-->This uses “integral image” concepts to compute the “features” detected. 
-->Haar Cascades use the Adaboost learning algorithm which selects a small number of important features from a large set to give an efficient result of classifiers.
+It is based on the Haar Wavelet technique to analyze pixels in the image into squares by function.This uses machine learning techniques to get a high degree of accuracy from what is called “training data”.This uses “integral image” concepts to compute the “features” detected.Haar Cascades use the Adaboost learning algorithm which selects a small number of important features from a large set to give an efficient result of classifiers.
 
 ![](Images/haarcascade.JPG)
 ![](Images/FlowChart.JPG)
